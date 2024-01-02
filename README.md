@@ -14,7 +14,7 @@ I would say that 🍜 ramen and noodles are my kryptonite
 - ☕ You are welcomed to [buy me a coffee](https://www.buymeacoffee.com/koconderi).
 - 📫 You can connect with me on: [https://linktr.ee/vincentkoc](https://linktr.ee/vincentkoc).
 
-I love to build, contribute, collaborate and chat. Feel free to reach out to me using the linktree link to book a meeting or connect on socials.
+I love to build, contribute, collaborate and chat. Feel free to [reach out to me](https://linktr.ee/vincentkoc).
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
