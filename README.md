@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Vincent
 
-A technologist with close to two decades of experience across fortune 500 companies and top listed companies in Asia Pacific.
+An engineer and technologist with close to two decades of experience across top listed companies in Asia Pacific and US.
 
 I would say that 🍜 ramen and noodles are my kryptonite
 
