@@ -2,8 +2,6 @@
 
 An engineer and technologist with close to two decades of experience across top listed companies in Asia Pacific and US.
 
-I would say that 🍜 ramen and noodles are my kryptonite
-
 - 🇦🇺 I’m currently in Sydney, Australia.
 - 🎓 I teach applied data science, no-code AI and generative AI at MIT and Texas University.
 - 📝 I regularly write articles on [Medium](https://medium.com/@vkoc).
@@ -11,7 +9,8 @@ I would say that 🍜 ramen and noodles are my kryptonite
 - 🌱 I’m currently learning quantum computing, rust, behavioural psychology.
 - 🔭 I give back by [sponsoring other developers](https://github.com/koconder?tab=sponsoring).
 - 💬 Ask me about **artificial intelligence, SaSS, startups, leadership**.
-- ☕ You are welcomed to [buy me a coffee](https://www.buymeacoffee.com/koconderi).
+- ☕ You are welcomed to [buy me a coffee](https://www.buymeacoffee.com/koconderi) to show support.
+- 🍜 I would say that [ramen and noodles are my kryptonite](https://www.instagram.com/p/Bo3_XWpAzoJ/).
 
 I love to build, contribute, collaborate and chat. Feel free to [📫 reach out to me](https://linktr.ee/vincentkoc).
 
