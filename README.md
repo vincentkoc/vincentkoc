@@ -7,12 +7,15 @@ An engineer and technologist with close to two decades of experience across top 
 - 📝 I regularly write articles on [Medium](https://medium.com/@vkoc).
 - ✨ I love cooking food, hiking, and travel.
 - 🌱 I’m currently learning quantum computing, rust, behavioural psychology.
-- 🔭 I give back by [sponsoring other developers](https://github.com/koconder?tab=sponsoring).
+- 🔭 I give back by [sponsoring other developers](https://github.com/koconder?tab=sponsoring), and you can also [sponsor me](https://github.com/sponsors/koconder).
 - 💬 Ask me about **artificial intelligence, SaSS, startups, leadership**.
 - ☕ You are welcomed to [buy me a coffee](https://www.buymeacoffee.com/koconderi) to show support.
 - 🍜 I would say that [ramen and noodles are my kryptonite](https://www.instagram.com/p/Bo3_XWpAzoJ/).
 
 I love to build, contribute, collaborate and chat. Feel free to [📫 reach out to me](https://linktr.ee/vincentkoc).
+
+[![By Me A Coffee](https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee)](https://www.buymeacoffee.com/koconderi)
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/koconder) ](https://twitter.com/koconder/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
