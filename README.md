@@ -19,11 +19,11 @@ I love to build, contribute, collaborate and chat. Feel free to [📫 reach out 
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Creating Synthetic User Research: Using Persona Prompting and Autonomous Agents](https://towardsdatascience.com/creating-synthetic-user-research-using-persona-prompting-and-autonomous-agents-b521e0a80ab6?source=rss-79191c4a8149------2)
 - [Explaining OpenAI Sora’s Spacetime Patches: The Key Ingredient](https://towardsdatascience.com/explaining-openai-soras-spacetime-patches-the-key-ingredient-e14e0703ec5b?source=rss-79191c4a8149------2)
 - [Generative AI Design Patterns: A Comprehensive Guide](https://towardsdatascience.com/generative-ai-design-patterns-a-comprehensive-guide-41425a40d7d0?source=rss-79191c4a8149------2)
 - [Navigating the AI Landscape of 2024: Trends, Predictions, and Possibilities](https://towardsdatascience.com/navigating-the-ai-landscape-of-2024-trends-predictions-and-possibilities-41e0ac83d68f?source=rss-79191c4a8149------2)
 - [Decoding the Future: The Parallels Between 1945 and Generative AI today](https://medium.com/@vkoc/decoding-the-future-the-parallels-between-1945-and-generative-ai-today-c63066824c88?source=rss-79191c4a8149------2)
-- [Decoding the Future: Highlights from SXSW Sydney’s Opening Keynote](https://medium.com/@vkoc/decoding-the-future-highlights-from-sxsw-sydneys-opening-keynote-a68c89ed7162?source=rss-79191c4a8149------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
