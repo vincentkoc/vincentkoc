@@ -15,7 +15,7 @@ An engineer and technologist with close to two decades of experience across top 
 I love to build, contribute, collaborate and chat. Feel free to [📫 reach out to me](https://linktr.ee/vincentkoc).
 
 [![By Me A Coffee](https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee)](https://www.buymeacoffee.com/vincentkoc)
-[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/koconder) ](https://twitter.com/koconder/)
+[![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/koconder) ](https://twitter.com/vincent_koc/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
