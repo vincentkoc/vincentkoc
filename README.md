@@ -1,18 +1,18 @@
 ### Hi 👋, I'm Vincent
 
-An engineer and technologist with close to two decades of experience across top listed companies in Asia Pacific and US.
+I'm an engineer and technologist with nearly two decades of experience across top companies in the Asia Pacific and US.
 
-- 🇦🇺 I’m currently in Sydney, Australia.
-- 🎓 I teach applied data science, no-code AI and generative AI at MIT and Texas University.
-- 📝 I regularly write articles on [Medium](https://medium.com/@vincentkoc).
-- ✨ I love cooking food, hiking, and travel.
-- 🌱 I’m currently learning quantum computing, rust, behavioural psychology.
-- 🔭 I give back by [sponsoring other developers](https://github.com/vincentkoc?tab=sponsoring), and you can also [sponsor me](https://github.com/sponsors/vincentkoc).
-- 💬 Ask me about **artificial intelligence, SaSS, startups, leadership**.
-- ☕ You are welcomed to [buy me a coffee](https://www.buymeacoffee.com/vincentkoc) to show support.
-- 🍜 I would say that [ramen and noodles are my kryptonite](https://www.instagram.com/p/Bo3_XWpAzoJ/).
+- 🇦🇺 Based in Sydney, Australia.
+- 🎓 Teaching applied data science, no-code AI, and generative AI at MIT and Texas University.
+- ✍️ Writing regularly on [Medium](https://medium.com/@vincentkoc).
+- ✨ Passionate about cooking, hiking, and travel.
+- 🌱 Currently diving into quantum computing, Rust, and behavioral psychology.
+- 🔭 Giving back by [sponsoring other developers](https://github.com/vincentkoc?tab=sponsoring), and you can also [sponsor me](https://github.com/sponsors/vincentkoc).
+- 💬 Ask me about **artificial intelligence, SaaS, startups, leadership**.
+- ☕ Feel free to [buy me a coffee](https://www.buymeacoffee.com/vincentkoc) to show support.
+- 🍜 [Ramen and noodles are my kryptonite](https://www.instagram.com/p/Bo3_XWpAzoJ/).
 
-I love to build, contribute, collaborate and chat. Feel free to [📫 reach out to me](https://linktr.ee/vincentkoc).
+I'm always open to building, contributing, collaborating, and chatting. Feel free to [📫 reach out](https://linktr.ee/vincentkoc).
 
 [![By Me A Coffee](https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee)](https://www.buymeacoffee.com/vincentkoc)
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/koconder) ](https://twitter.com/vincent_koc/)
