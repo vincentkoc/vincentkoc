@@ -5,7 +5,7 @@ I've contributed to leading repositories from [Airbyte](https://github.com/airby
 
 - 🇦🇺 I'm currently based in Sydney, Australia. (Previously 🇪🇺🇸🇬🇹🇷)
 - 🎓 Teaching applied data science, no-code AI, and generative AI at top universities such as MIT, UT Austin and UNSW.
-- 🧠 Run and organise events and meetups like [Deeplearning.AI in Sydney](https://www.meetup.com/sydney-deep-learning-ai/) and [Data & Analytics Wednesday](https://www.meetup.com/data-and-analytics-wednesday-sydney/
+- 🧠 Run and organise events and meetups like [Deeplearning.AI in Sydney](https://www.meetup.com/sydney-deep-learning-ai/) and [Data & Analytics Wednesday](https://www.meetup.com/data-and-analytics-wednesday-sydney/).
 - ✍️ Writing regularly on [Medium](https://medium.com/@vincentkoc).
 - ✨ Passionate about cooking, hiking, and travel.
 - 🌱 Currently diving into quantum computing, Rust, and behavioral psychology.
