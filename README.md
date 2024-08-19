@@ -1,6 +1,7 @@
 ### Hi 👋, I'm Vincent
 
 I'm an engineer and technologist with nearly two decades of experience across top companies in the Asia Pacific and US.
+I have had the pleasure to contribute to top repositories from @google, @facebook, @cohere, @microsoft, @airbytehq, @hasura, @databricks, @apache and many more!
 
 - 🇦🇺 Based in Sydney, Australia.
 - 🎓 Teaching applied data science, no-code AI, and generative AI at MIT and Texas University.
