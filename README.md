@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Vincent
 
 I'm an engineer and technologist with nearly two decades of experience across top companies in the Asia Pacific and US.
-I have had the pleasure to contribute to top repositories from @google, @facebook, @cohere, @microsoft, @airbytehq, @hasura, @databricks, @apache and many more!
+I've contributed to leading repositories from [Google](https://github.com/google), [Facebook](https://github.com/facebook), [Cohere](https://github.com/cohere-ai), [Microsoft](https://github.com/microsoft), [AirbyteHQ](https://github.com/airbytehq), [Hasura](https://github.com/hasura), [Databricks](https://github.com/databricks), [Apache](https://github.com/apache), and many others!
 
 - 🇦🇺 Based in Sydney, Australia.
 - 🎓 Teaching applied data science, no-code AI, and generative AI at MIT and Texas University.
