@@ -4,7 +4,7 @@ I'm an engineer and technologist with nearly two decades of experience across to
 I've contributed to leading repositories from [Airbyte](https://github.com/airbytehq), [Apache Foundation](https://github.com/apache), [Cohere](https://github.com/cohere-ai), [Databricks](https://github.com/databricks), [Facebook](https://github.com/facebook), [Google](https://github.com/google), [Hasura](https://github.com/hasura), [Microsoft](https://github.com/microsoft), and many others!
 
 - 🇦🇺 Based in Sydney, Australia.
-- 🎓 Teaching applied data science, no-code AI, and generative AI at MIT and Texas University.
+- 🎓 Teaching applied data science, no-code AI, and generative AI at top universities such as MIT, UT Austin and UNSW.
 - ✍️ Writing regularly on [Medium](https://medium.com/@vincentkoc).
 - ✨ Passionate about cooking, hiking, and travel.
 - 🌱 Currently diving into quantum computing, Rust, and behavioral psychology.
