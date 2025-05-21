@@ -19,7 +19,7 @@ I'm always open to building, contributing, collaborating, and chatting. Feel fre
 [![By Me A Coffee](https://img.shields.io/badge/-buy_me_a%C2%A0coffee-gray?logo=buy-me-a-coffee)](https://www.buymeacoffee.com/vincentkoc)
 [![X (formerly Twitter) Follow](https://img.shields.io/twitter/follow/vincent_koc) ](https://twitter.com/vincent_koc/)
 
-### Blogs posts
+### Recent Articles, Journal Papers and Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [Tiny QA Benchmark++: Ultra-Lightweight, Synthetic Multilingual Dataset Generation &amp; Smoke-Tests for Continuous LLM Evaluation](http://arxiv.org/abs/2505.12058v1)
 - [Generative AI and Large Language Models in Language Preservation: Opportunities and Challenges](http://arxiv.org/abs/2501.11496v2)
