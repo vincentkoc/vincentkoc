@@ -15,4 +15,4 @@ jobs:
         with:
           feed_list: |
             https://medium.com/feed/@vincentkoc
-            http://arxiv.org/a/koc_v_1.atom2
+            http://arxiv.org/a/koc_v_1.atom
