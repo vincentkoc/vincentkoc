@@ -21,11 +21,11 @@ I'm always open to building, contributing, collaborating, and chatting. Feel fre
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Tiny QA Benchmark++: Ultra-Lightweight, Synthetic Multilingual Dataset Generation &amp; Smoke-Tests for Continuous LLM Evaluation](http://arxiv.org/abs/2505.12058v1)
+- [Generative AI and Large Language Models in Language Preservation: Opportunities and Challenges](http://arxiv.org/abs/2501.11496v2)
 - [The GenAI Compass: a UX framework to design generative AI experiences](https://uxdesign.cc/the-genai-compass-a-ux-framework-to-design-generative-ai-experiences-49a7d797c114?source=rss-79191c4a8149------2)
 - [Creating Synthetic User Research: Using Persona Prompting and Autonomous Agents](https://medium.com/data-science/creating-synthetic-user-research-using-persona-prompting-and-autonomous-agents-b521e0a80ab6?source=rss-79191c4a8149------2)
 - [Explaining OpenAI Sora’s Spacetime Patches: The Key Ingredient](https://medium.com/data-science/explaining-openai-soras-spacetime-patches-the-key-ingredient-e14e0703ec5b?source=rss-79191c4a8149------2)
-- [Generative AI Design Patterns: A Comprehensive Guide](https://medium.com/data-science/generative-ai-design-patterns-a-comprehensive-guide-41425a40d7d0?source=rss-79191c4a8149------2)
-- [Navigating the AI Landscape of 2024: Trends, Predictions, and Possibilities](https://medium.com/data-science/navigating-the-ai-landscape-of-2024-trends-predictions-and-possibilities-41e0ac83d68f?source=rss-79191c4a8149------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
