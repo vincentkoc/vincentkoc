@@ -22,15 +22,14 @@ I'm always open to building, contributing, collaborating, and chatting. Feel fre
 ### Recent Articles, Journal Papers and Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [From Observability to Optimization: Announcing the Opik Agent Optimizer Public Beta](https://live-comet-marketing-site.pantheonsite.io/blog/automated-prompt-engineering/)
-- [Tiny QA Benchmark++: Ultra-Lightweight, Synthetic Multilingual Dataset Generation &amp; Smoke-Tests for Continuous LLM Evaluation](http://arxiv.org/abs/2505.12058v1)
-- [Mind the Metrics: Patterns for Telemetry-Aware In-IDE AI Application Development using the Model Context Protocol &lpar;MCP&rpar;](http://arxiv.org/abs/2506.11019v1)
 - [LLM Evaluation Complexities for Non-Latin Languages](https://live-comet-marketing-site.pantheonsite.io/blog/complexities-for-non-latin-languages-llm-evaluations/)
-- [Generative AI and Large Language Models in Language Preservation: Opportunities and Challenges](http://arxiv.org/abs/2501.11496v2)
 - [The GenAI Compass: a UX framework to design generative AI experiences](https://uxdesign.cc/the-genai-compass-a-ux-framework-to-design-generative-ai-experiences-49a7d797c114?source=rss-79191c4a8149------2)
 - [Creating Synthetic User Research: Using Persona Prompting and Autonomous Agents](https://medium.com/data-science/creating-synthetic-user-research-using-persona-prompting-and-autonomous-agents-b521e0a80ab6?source=rss-79191c4a8149------2)
 - [Explaining OpenAI Sora’s Spacetime Patches: The Key Ingredient](https://medium.com/data-science/explaining-openai-soras-spacetime-patches-the-key-ingredient-e14e0703ec5b?source=rss-79191c4a8149------2)
 - [Generative AI Design Patterns: A Comprehensive Guide](https://medium.com/data-science/generative-ai-design-patterns-a-comprehensive-guide-41425a40d7d0?source=rss-79191c4a8149------2)
 - [Navigating the AI Landscape of 2024: Trends, Predictions, and Possibilities](https://medium.com/data-science/navigating-the-ai-landscape-of-2024-trends-predictions-and-possibilities-41e0ac83d68f?source=rss-79191c4a8149------2)
+- [Decoding the Future: The Parallels Between 1945 and Generative AI today](https://medium.com/@vincentkoc/decoding-the-future-the-parallels-between-1945-and-generative-ai-today-c63066824c88?source=rss-79191c4a8149------2)
+- [Decoding the Future: Highlights from SXSW Sydney’s Opening Keynote](https://medium.com/@vincentkoc/decoding-the-future-highlights-from-sxsw-sydneys-opening-keynote-a68c89ed7162?source=rss-79191c4a8149------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
