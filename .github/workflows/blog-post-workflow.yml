@@ -13,7 +13,7 @@ jobs:
       - uses: actions/checkout@v2
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
-          feed_list: "https://medium.com/feed/@vincentkoc,http://arxiv.org/a/koc_v_1.atom,https://www.comet.com/site/blog/author/vincent_koc/feed/"
+          feed_list: "https://gist.githubusercontent.com/vincentkoc/7f8dcda3bbe07d652f118d980a5f23a6/raw/manual-articles.xml,https://towardsdatascience.com/feed/@vincentkoc,https://medium.com/feed/@vincentkoc,http://arxiv.org/a/koc_v_1.atom,https://www.comet.com/site/blog/author/vincent_koc/feed/"
           retry_count: 2
           retry_wait_time: 10
           max_post_count: 10
