@@ -19,6 +19,7 @@ Some of my projects I have published on GitHub:
 - 🐦 [finagotchi](https://github.com/vincentkoc/finagotchi) (2026) - Tamagotchi‑inspired AI agent that evolves with financial data, using SLMs and local graph.
 - 🧠 [openamnesia](https://github.com/vincentkoc/openamnesia) (2026) - Backfill `.md` memory files for agents locally from iMessage to Cursor logs locally with no apis.
 - 👻 [dexscraper](https://github.com/vincentkoc/dexscraper) (2025) - Real-time DexScreener scraper for multi-chain token discovery, filtering, and feed for bots.
+- 🧑‍🚀 [airgapped-offline-rag](https://github.com/vincentkoc/airgapped-offfline-rag) (2025) - 100% offline dockerized RAG with quantized model inference.
 - ✨ [Synthetic user research](https://github.com/vincentkoc/synthetic-user-research) (2024) - Autonomous agents powering reasearch studies and panels with persona prompting.
 - 🔑 [autosecure](https://github.com/vincentkoc/autosecure) (2017) - Public threat-feed and blocklists to automatic IP blocking for Linux and macOS firewalls.
 
