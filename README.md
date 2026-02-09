@@ -17,7 +17,7 @@ I've contributed to leading repositories from [Airbyte](https://github.com/airby
 Some of my projects I have published on GitHub:
 
 - 🧠 [openamnesia](https://github.com/vincentkoc/openamnesia) (2026) - Backfill `.md` memory files for agents locally from iMessage to Cursor logs locally with no apis.
-- 👻 [dexscraper](https://github.com/vincentkoc/dexscraper) (2025) - Real-time DexScreener scraper for multi-chain token discovery, filtering, and OHLC/OHLCVT export for bots.
+- 👻 [dexscraper](https://github.com/vincentkoc/dexscraper) (2025) - Real-time DexScreener scraper for multi-chain token discovery, filtering, and feed for bots.
 - ✨ [Synthetic user research](https://github.com/vincentkoc/synthetic-user-research) (2024) - Autonomous agents powering reasearch studies and panels with persona prompting.
 - 🔑 [autosecure](https://github.com/vincentkoc/autosecure) (2017) - Public threat-feed and blocklists to automatic IP blocking for Linux and macOS firewalls.
 
