@@ -16,7 +16,7 @@ I've contributed to leading repositories from [Airbyte](https://github.com/airby
 
 Some of my projects I have published on GitHub:
 
-- 🧠 [openamnesia](https://github.com/vincentkoc/openamnesia) (2026) - Local-first memory reconstuction from local messages and agent logs for agents. From raw traces to reliable context md files.
+- 🧠 [openamnesia](https://github.com/vincentkoc/openamnesia) (2026) - Local memory reconstuction from iMessage, Cursor and Codex to generate historcal md files for agents
 - ✨ [Synthetic user research](https://github.com/vincentkoc/synthetic-user-research) (2025) - Autonomous agents (AutoGen) powering reasearch studies and panels with persona prompting.
 - 🔑 [autosecure](https://github.com/vincentkoc/autosecure) (2017) - Public threat-feed and blocklists to automatic IP blocking for Linux and macOS firewalls.
 
