@@ -14,10 +14,12 @@ I've contributed to leading repositories from [Airbyte](https://github.com/airby
 - ☕ Feel free to [buy me a coffee](https://www.buymeacoffee.com/vincentkoc) to show support.
 - 🍜 [Ramen and noodles are my kryptonite](https://www.instagram.com/p/Bo3_XWpAzoJ/).
 
-Some of my projects I have published or repostories I have been an active maintainer (*) for:
+Some of my projects I have published or repostories I have been an active maintainer/contributor (*) for:
 
+- 🦞 [openclaw](https://github.com/openclaw/openclaw/)* (2026) - Personal AI assistant, contributing with CVEs and OTel to make lobsters safe.
 - 🐦 [finagotchi](https://github.com/vincentkoc/finagotchi) (2026) - Tamagotchi‑inspired AI agent that evolves with financial data, using SLMs and local graph.
 - 🧠 [openamnesia](https://github.com/vincentkoc/openamnesia) (2026) - Backfill `.md` memory files for agents locally from iMessage to Cursor logs locally with no apis.
+- 🦞 [awesome-openclaw](https://github.com/vincentkoc/awesome-openclaw) (2026) - Curated awesome list for OpenClaw (formerly Moltbot/Clawdbot).
 - 🔭 [opik-optimizer](https://github.com/comet-ml/opik/tree/main/sdks/opik_optimizer)* (2025) - Lead developer and project maintainer for agent optimization SDK.
 - 🔭 [opik-mcp](https://github.com/comet-ml/opik-mcp)* (2025) - Developed an Anthrophic MCP endorsed official server for Comet Opik.
 - 🔭 [opik](https://github.com/comet-ml/opik)* (2025) - Debug, evaluate, and monitor your LLM applications. Leading open-source LLM evaluation toolkit.
