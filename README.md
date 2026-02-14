@@ -6,11 +6,11 @@ I've contributed to leading repositories from [Airbyte](https://github.com/airby
 - 🇺🇳 I'm currently a totally remote work from anywhere nomad but most of my time is in SF. (Previously 🇦🇺🇪🇺🇸🇬🇹🇷🇵🇹🇸🇬🇺🇸🇬🇧)
 - 🎓 Teaching applied data science, no-code AI, and generative AI at top universities such as MIT, UT Austin and UNSW.
 - 🧠 Run and organise events and meetups like [Deeplearning.AI in Sydney](https://www.meetup.com/sydney-deep-learning-ai/) and [Data & Analytics Wednesday](https://www.meetup.com/data-and-analytics-wednesday-sydney/).
-- ✍️ Writing regularly on [Medium](https://medium.com/@vincentkoc).
-- ✨ Passionate about cooking, hiking, cycling and travel.
-- 🌱 Currently diving into self-optimizing agents, design patterns for complex systems, AI in precision health and behavioral psychology.
+- ✍️ Writing regularly on [Medium](https://medium.com/@vincentkoc) and few other places.
+- ✨ Passionate about cooking, hiking, cycling and travel when im not on a screen.
+- 🌱 Obsessing on self-optimizing agents, design patterns, AI in precision health and behavioral psychology.
 - 🔭 Giving back by [sponsoring other developers](https://github.com/vincentkoc?tab=sponsoring), and you can also [sponsor me](https://github.com/sponsors/vincentkoc).
-- 💬 Ask me about **artificial intelligence, SaaS, startups, leadership**.
+- 💬 Ask me about **artificial intelligence, automous agents, startups, biohacking**.
 - ☕ Feel free to [buy me a coffee](https://www.buymeacoffee.com/vincentkoc) to show support.
 - 🍜 [Ramen and noodles are my kryptonite](https://www.instagram.com/p/Bo3_XWpAzoJ/).
 
