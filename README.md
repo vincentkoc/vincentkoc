@@ -16,6 +16,7 @@ I've contributed to leading repositories from [Airbyte](https://github.com/airby
 
 Some of my projects I have published or repostories I have been an active maintainer/contributor (*) for:
 
+- 📁 [.skills](https://github.com/vincentkoc/dotskills) (2026) - Curated skills and skill registry (a-kin to dotfiles) for coding agents and OpenClaw.
 - 🦞 [openclaw](https://github.com/openclaw/openclaw/)* (2026) - Personal AI assistant, contributing with CVEs and OTel to make lobsters safe.
 - 🐦 [finagotchi](https://github.com/vincentkoc/finagotchi) (2026) - Tamagotchi‑inspired AI agent that evolves with financial data, using SLMs and local graph.
 - 🧠 [openamnesia](https://github.com/vincentkoc/openamnesia) (2026) - Backfill `.md` memory files for agents locally from iMessage to Cursor logs locally with no apis.
