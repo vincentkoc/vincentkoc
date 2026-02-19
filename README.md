@@ -16,6 +16,7 @@ I've contributed to leading repositories from [Airbyte](https://github.com/airby
 Some of my projects I have published or repostories I have been an active maintainer/contributor (*) for:
 
 - 📁 [.skills](https://github.com/vincentkoc/dotskills) (2026) - Curated skills and skill registry (a-kin to dotfiles) for coding agents and OpenClaw.
+- 🦞 [openclaw](https://github.com/openclaw/openclaw/) (2026) - Personal AI assistant, contributing with CVEs and OTel to make lobsters safe.
 - 🐦 [finagotchi](https://github.com/vincentkoc/finagotchi) (2026) - Tamagotchi‑inspired AI agent that evolves with financial data, using SLMs and local graph.
 - 🧠 [openamnesia](https://github.com/vincentkoc/openamnesia) (2026) - Backfill `.md` memory files for agents locally from iMessage to Cursor logs locally with no apis.
 - 🦞 [awesome-openclaw](https://github.com/vincentkoc/awesome-openclaw) (2026) - Curated awesome list for OpenClaw (formerly Moltbot/Clawdbot).
@@ -27,9 +28,7 @@ Some of my projects I have published or repostories I have been an active mainta
 - ✨ [Synthetic user research](https://github.com/vincentkoc/synthetic-user-research) (2024) - Autonomous agents powering reasearch studies and panels with persona prompting.
 - 🗄️ [Airbyte](https://github.com/airbytehq)* (2024) - Core contributor for the worlds leading data integration platform.
 - 🔑 [autosecure](https://github.com/vincentkoc/autosecure) (2017) - Public threat-feed and blocklists to automatic IP blocking for Linux and macOS firewalls.
-<!--
-- 🦞 [openclaw](https://github.com/openclaw/openclaw/)* (2026) - Personal AI assistant, contributing with CVEs and OTel to make lobsters safe.
--->
+
 I'm always open to building, contributing, collaborating, and chatting. Feel free to [📫 reach out](https://linktr.ee/vincentkoc).
 
 ### Recent Articles, Journal Papers and Blog Posts
