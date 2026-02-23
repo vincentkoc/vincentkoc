@@ -29,6 +29,7 @@ Some of my projects I have published or repostories I have been a maintainer for
 - ✨ [Synthetic user research](https://github.com/vincentkoc/synthetic-user-research) (2024) - Autonomous agents powering reasearch studies and panels with persona prompting.
 - 🗄️ [Airbyte](https://github.com/airbytehq) (2024) - Core contributor for the worlds leading data integration platform.
 - 🔑 [autosecure](https://github.com/vincentkoc/autosecure) (2017) - Public threat-feed and blocklists to automatic IP blocking for Linux and macOS firewalls.
+- 📱 [android-market-php](https://github.com/vincentkoc/android-market-api-php) (2014) - Port the java project and c++ protobuffs to develop an unofficial Google Play SDK.
 
 I'm always open to building, contributing, collaborating, and chatting. Feel free to [📫 reach out](https://linktr.ee/vincentkoc).
 
