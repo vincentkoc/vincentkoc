@@ -22,7 +22,7 @@ Some of my projects I have published or repostories I have been a maintainer for
 - 🦞 [awesome-openclaw](https://github.com/vincentkoc/awesome-openclaw) (2026) - Curated awesome list for OpenClaw (formerly Moltbot/Clawdbot).
 - 🔭 [opik-optimizer](https://github.com/comet-ml/opik/tree/main/sdks/opik_optimizer) (2025) - Lead developer and project maintainer for agent optimization SDK.
 - 🔭 [opik-mcp](https://github.com/comet-ml/opik-mcp) (2025) - Developed an Anthrophic MCP endorsed official server for Comet Opik.
-- 🔭 [opik](https://github.com/comet-ml/opik)* (2025) - Debug, evaluate, and monitor your LLM applications. Leading open-source LLM evaluation toolkit.
+- 🔭 [opik](https://github.com/comet-ml/opik) (2025) - Debug, evaluate, and monitor your LLM applications. Leading open-source LLM evaluation toolkit.
 - 👻 [dexscraper](https://github.com/vincentkoc/dexscraper) (2025) - Real-time DexScreener scraper for multi-chain token discovery, filtering, and feed for bots.
 - 🧑‍🚀 [airgapped-offline-rag](https://github.com/vincentkoc/airgapped-offfline-rag) (2025) - 100% offline dockerized RAG with quantized model inference.
 - 🎙️ [omi](https://github.com/BasedHardware/omi) (2024) - omi.me (_YC, prev. Friend AI_) developing AI wearable firmware and live speech analysis.
