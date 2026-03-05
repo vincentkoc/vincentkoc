@@ -35,6 +35,7 @@ I'm always open to building, contributing, collaborating, and chatting. Feel fre
 
 ### Recent Articles, Journal Papers and Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Native Observability &amp; Alerts for Your OpenClaw with Opik](https://live-comet-marketing-site.pantheonsite.io/blog/openclaw-observability/)
 - [The Dawn of Self-Optimizing AI Agents](https://www.forbes.com/councils/forbestechcouncil/2026/01/22/the-dawn-of-self-optimizing-ai-agents/)
 - [From Observability to Optimization: Announcing the Opik Agent Optimizer Public Beta](https://live-comet-marketing-site.pantheonsite.io/blog/automated-prompt-engineering/)
 - [Tiny QA Benchmark++: Ultra-Lightweight, Synthetic Multilingual Dataset Generation &amp; Smoke-Tests for Continuous LLM Evaluation](http://arxiv.org/abs/2505.12058v1)
@@ -44,7 +45,6 @@ I'm always open to building, contributing, collaborating, and chatting. Feel fre
 - [The GenAI Compass: a UX framework to design generative AI experiences](https://uxdesign.cc/the-genai-compass-a-ux-framework-to-design-generative-ai-experiences-49a7d797c114?source=rss-79191c4a8149------2)
 - [Creating Synthetic User Research: Using Persona Prompting and Autonomous Agents](https://medium.com/data-science/creating-synthetic-user-research-using-persona-prompting-and-autonomous-agents-b521e0a80ab6?source=rss-79191c4a8149------2)
 - [Explaining OpenAI Sora’s Spacetime Patches: The Key Ingredient](https://medium.com/data-science/explaining-openai-soras-spacetime-patches-the-key-ingredient-e14e0703ec5b?source=rss-79191c4a8149------2)
-- [Generative AI Design Patterns: A Comprehensive Guide](https://medium.com/data-science/generative-ai-design-patterns-a-comprehensive-guide-41425a40d7d0?source=rss-79191c4a8149------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
