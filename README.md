@@ -15,7 +15,7 @@ I've contributed to leading repositories from [Airbyte](https://github.com/airby
 
 Some of my projects I have published or repostories I have been a maintainer for:
 
-- 🦞 [opik-openclaw](https://github.com/comet-ml/opik-openclaw) (2026) - Native Opik observability in OpenClaw.
+- 🦞 [opik-openclaw](https://github.com/comet-ml/opik-openclaw) (2026) - Native Opik observability in OpenClaw to help with agent evaluation.
 - 📁 [.skills](https://github.com/vincentkoc/dotskills) (2026) - Curated skills and skill registry (a-kin to dotfiles) for coding agents and OpenClaw.
 - 🦞 [openclaw](https://github.com/openclaw/openclaw/) (2026) - Personal AI assistant, contributing with CVEs and OTel to make lobsters safe.
 - 🐦 [finagotchi](https://github.com/vincentkoc/finagotchi) (2026) - Tamagotchi‑inspired AI agent that evolves with financial data, using SLMs and local graph.
