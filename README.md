@@ -15,22 +15,23 @@ I've contributed to leading repositories from [Airbyte](https://github.com/airby
 
 Some of my projects I have published or repostories I have been a maintainer for:
 
-- 🦞 [opik-openclaw](https://github.com/comet-ml/opik-openclaw) (2026) - Native Opik observability in OpenClaw to help with agent evaluation.
-- 📁 [.skills](https://github.com/vincentkoc/dotskills) (2026) - Curated skills and skill registry (a-kin to dotfiles) for coding agents and OpenClaw.
-- 🦞 [openclaw](https://github.com/openclaw/openclaw/) (2026) - Personal AI assistant, contributing with CVEs and OTel to make lobsters safe.
-- 🐦 [finagotchi](https://github.com/vincentkoc/finagotchi) (2026) - Tamagotchi‑inspired AI agent that evolves with financial data, using SLMs and local graph.
-- 🧠 [openamnesia](https://github.com/vincentkoc/openamnesia) (2026) - Backfill `.md` memory files for agents locally from iMessage to Cursor logs locally with no apis.
-- 🦞 [awesome-openclaw](https://github.com/vincentkoc/awesome-openclaw) (2026) - Curated awesome list for OpenClaw (formerly Moltbot/Clawdbot).
-- 🔭 [opik-optimizer](https://github.com/comet-ml/opik/tree/main/sdks/opik_optimizer) (2025) - Lead developer and project maintainer for agent optimization SDK.
-- 🔭 [opik-mcp](https://github.com/comet-ml/opik-mcp) (2025) - Developed an Anthrophic MCP endorsed official server for Comet Opik.
-- 🔭 [opik](https://github.com/comet-ml/opik) (2025) - Debug, evaluate, and monitor your LLM applications. Leading open-source LLM evaluation toolkit.
-- 👻 [dexscraper](https://github.com/vincentkoc/dexscraper) (2025) - Real-time DexScreener scraper for multi-chain token discovery, filtering, and feed for bots.
-- 🧑‍🚀 [airgapped-offline-rag](https://github.com/vincentkoc/airgapped-offfline-rag) (2025) - 100% offline dockerized RAG with quantized model inference.
-- 🎙️ [omi](https://github.com/BasedHardware/omi) (2024) - omi.me (_YC, prev. Friend AI_) developing AI wearable firmware and live speech analysis.
-- ✨ [Synthetic user research](https://github.com/vincentkoc/synthetic-user-research) (2024) - Autonomous agents powering reasearch studies and panels with persona prompting.
-- 🗄️ [Airbyte](https://github.com/airbytehq) (2024) - Core contributor for the worlds leading data integration platform.
-- 🔑 [autosecure](https://github.com/vincentkoc/autosecure) (2017) - Public threat-feed and blocklists to automatic IP blocking for Linux and macOS firewalls.
-- 📱 [android-market-php](https://github.com/vincentkoc/android-market-api-php) (2014) - Port the java project and c++ protobuffs to develop an unofficial Google Play SDK.
+- 💾 [slacrawl](https://github.com/vincentkoc/slacrawl) - Command line terminal app for slack with sqlite backend and key-less wiretapping.
+- 🦞 [opik-openclaw](https://github.com/comet-ml/opik-openclaw) - Native Opik observability in OpenClaw to help with agent evaluation.
+- 📁 [.skills](https://github.com/vincentkoc/dotskills) - Curated skills and skill registry (a-kin to dotfiles) for coding agents and OpenClaw.
+- 🦞 [openclaw](https://github.com/openclaw/openclaw/) - Personal AI assistant, contributing with CVEs and OTel to make lobsters safe.
+- 🐦 [finagotchi](https://github.com/vincentkoc/finagotchi) - Tamagotchi‑inspired AI agent that evolves with financial data, using SLMs and local graph.
+- 🧠 [openamnesia](https://github.com/vincentkoc/openamnesia) - Backfill `.md` memory files for agents locally from iMessage to Cursor logs locally with no apis.
+- 🦞 [awesome-openclaw](https://github.com/vincentkoc/awesome-openclaw) (- Curated awesome list for OpenClaw (formerly Moltbot/Clawdbot).
+- 🔭 [opik-optimizer](https://github.com/comet-ml/opik/tree/main/sdks/opik_optimizer) - Lead developer and project maintainer for agent optimization SDK.
+- 🔭 [opik-mcp](https://github.com/comet-ml/opik-mcp) - Developed an Anthrophic MCP endorsed official server for Comet Opik.
+- 🔭 [opik](https://github.com/comet-ml/opik) - Debug, evaluate, and monitor your LLM applications. Leading open-source LLM evaluation toolkit.
+- 👻 [dexscraper](https://github.com/vincentkoc/dexscraper) - Real-time DexScreener scraper for multi-chain token discovery, filtering, and feed for bots.
+- 🧑‍🚀 [airgapped-offline-rag](https://github.com/vincentkoc/airgapped-offfline-rag) - 100% offline dockerized RAG with quantized model inference.
+- 🎙️ [omi](https://github.com/BasedHardware/omi) - omi.me (_YC, prev. Friend AI_) developing AI wearable firmware and live speech analysis.
+- ✨ [Synthetic user research](https://github.com/vincentkoc/synthetic-user-research) - Autonomous agents powering reasearch studies and panels with persona prompting.
+- 🗄️ [Airbyte](https://github.com/airbytehq) - Core contributor for the worlds leading data integration platform.
+- 🔑 [autosecure](https://github.com/vincentkoc/autosecure) - Public threat-feed and blocklists to automatic IP blocking for Linux and macOS firewalls.
+- 📱 [android-market-php](https://github.com/vincentkoc/android-market-api-php) - Port the java project and c++ protobuffs to develop an unofficial Google Play SDK.
 
 I'm always open to building, contributing, collaborating, and chatting. Feel free to [📫 reach out](https://linktr.ee/vincentkoc).
 
