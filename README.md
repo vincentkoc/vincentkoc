@@ -15,6 +15,7 @@ I've contributed to leading repositories from [Airbyte](https://github.com/airby
 
 Some of my projects I have published or repostories I have been a maintainer for:
 
+- 🌀 [NemoClaw](https://github.com/NVIDIA/NemoClaw) - NVIDIA plugin for secure installation of OpenClaw with OpenShell.
 - 💾 [slacrawl](https://github.com/vincentkoc/slacrawl) - Command line terminal app for slack with sqlite backend and key-less wiretapping.
 - 🦞 [opik-openclaw](https://github.com/comet-ml/opik-openclaw) - Native Opik observability in OpenClaw to help with agent evaluation.
 - 📁 [.skills](https://github.com/vincentkoc/dotskills) - Curated skills and skill registry (a-kin to dotfiles) for coding agents and OpenClaw.
