@@ -15,6 +15,7 @@ I've contributed to leading repositories from [Airbyte](https://github.com/airby
 
 Some of my projects I have published or repostories I have been a maintainer for:
 
+- 🗞️ [notclaw](https://github.com/vincentkoc/notclaw) - Sync Notion as with sqlite backend and *.md files and key-less wiretapping.
 - 🧃 [tokenjuice](https://github.com/vincentkoc/tokenjuice) - Lean output compaction for terminal-heavy agent workflows.
 - 🌀 [NemoClaw](https://github.com/NVIDIA/NemoClaw) - NVIDIA plugin for secure installation of OpenClaw with OpenShell.
 - 💾 [slacrawl](https://github.com/vincentkoc/slacrawl) - Command line terminal app for slack with sqlite backend and key-less wiretapping.
