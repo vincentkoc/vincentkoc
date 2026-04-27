@@ -36,6 +36,7 @@ Some of my projects I have published or repostories I have been a maintainer for
 - 🗄️ [Airbyte](https://github.com/airbytehq) - Core contributor for the worlds leading data integration platform.
 - 🔑 [autosecure](https://github.com/vincentkoc/autosecure) - Public threat-feed and blocklists to automatic IP blocking for Linux and macOS firewalls.
 - 📱 [android-market-php](https://github.com/vincentkoc/android-market-api-php) - Port the java project and c++ protobuffs to develop an unofficial Google Play SDK.
+- 📁 [dotfiles](https://github.com/vincentkoc/dotfiles) - A very opnionated and well-maintained personal dotfiles repo.
 
 I'm always open to building, contributing, collaborating, and chatting. Feel free to [📫 reach out](https://linktr.ee/vincentkoc).
 
