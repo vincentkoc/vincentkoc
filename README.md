@@ -36,6 +36,7 @@ Some of my projects I have published or repostories I have been a maintainer for
 - 🧑‍🚀 [airgapped-offline-rag](https://github.com/vincentkoc/airgapped-offfline-rag) - 100% offline dockerized RAG with quantized model inference.
 - 🎙️ [omi](https://github.com/BasedHardware/omi) - omi.me (_YC, prev. Friend AI_) developing AI wearable firmware and live speech analysis.
 - ✨ [Synthetic user research](https://github.com/vincentkoc/synthetic-user-research) - Autonomous agents powering reasearch studies and panels with persona prompting.
+- ⏰ [no-out-of-hours-merge](https://github.com/vincentkoc/no-out-of-hours-merge) - GitHub Action that blocks PR merges outside business hours, weekends and holidays.
 - 🗄️ [Airbyte](https://github.com/airbytehq) - Core contributor for the worlds leading data integration platform.
 - 🔑 [autosecure](https://github.com/vincentkoc/autosecure) - Public threat-feed and blocklists to automatic IP blocking for Linux and macOS firewalls.
 - 📱 [android-market-php](https://github.com/vincentkoc/android-market-api-php) - Port the java project and c++ protobuffs to develop an unofficial Google Play SDK.
