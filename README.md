@@ -15,6 +15,7 @@ I've contributed to leading repositories from [Airbyte](https://github.com/airby
 
 Some of my projects I have published or repostories I have been a maintainer for:
 
+- 🦀 [crabpot](https://github.com/openclaw/crabpot) - Compatibility testbed for OpenClaw community plugins.
 - 🐠 [clownfish](https://github.com/openclaw/clownfish) - En-masse issue resolution running codex on github workers.
 - 🗞️ [notcrawl](https://github.com/vincentkoc/notcrawl) - Sync Notion as with sqlite backend and *.md files and key-less wiretapping.
 - 🧃 [tokenjuice](https://github.com/vincentkoc/tokenjuice) - Lean output compaction for terminal-heavy agent workflows.
