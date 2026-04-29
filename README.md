@@ -13,11 +13,13 @@ I've contributed to leading repositories from [Airbyte](https://github.com/airby
 - ☕ Feel free to [buy me a coffee](https://www.buymeacoffee.com/vincentkoc) to show support.
 - 🍜 [Ramen and noodles are my kryptonite](https://www.instagram.com/p/Bo3_XWpAzoJ/).
 
-Some of my projects I have published or repostories I have been a maintainer for:
+Some of my projects I have published or repositories I have been a maintainer for:
 
-- 💊 [plugin-inspector](https://github.com/openclaw/plugin-inspector) - Offline compatibility inspector for mocking OpenClaw and testing plugins.
+- 🧭 [gitcrawl](https://github.com/openclaw/gitcrawl) - Local-first GitHub issue and PR crawler for maintainer triage.
+- 🧽 [kitchen-sink](https://github.com/openclaw/kitchen-sink) - Credential-free OpenClaw plugin fixture covering the public plugin API surface.
+- 💊 [plugin-inspector](https://github.com/openclaw/plugin-inspector) - Offline compatibility inspector for OpenClaw plugin packages and fixtures.
 - 🦀 [crabpot](https://github.com/openclaw/crabpot) - Compatibility testbed for OpenClaw community plugins.
-- 🐠 [clownfish](https://github.com/openclaw/clownfish) - En-masse issue resolution running codex on github workers.
+- 🐠 [clownfish](https://github.com/openclaw/clownfish) - Conservative OpenClaw maintainer tool for targeted issue and PR cluster cleanup.
 - 🗞️ [notcrawl](https://github.com/vincentkoc/notcrawl) - Sync Notion as with sqlite backend and *.md files and key-less wiretapping.
 - 🧃 [tokenjuice](https://github.com/vincentkoc/tokenjuice) - Lean output compaction for terminal-heavy agent workflows.
 - 🛰️ [discrawl](https://github.com/steipete/discrawl) - Mirror Discord into SQLite and search server history locally.
