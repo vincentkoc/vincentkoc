@@ -21,6 +21,8 @@ Some of my projects I have published or repositories I have been a maintainer fo
 - 🦀 [crabpot](https://github.com/openclaw/crabpot) - Compatibility testbed for OpenClaw community plugins.
 - 🐠 [clownfish](https://github.com/openclaw/clownfish) - Conservative OpenClaw maintainer tool for targeted issue and PR cluster cleanup.
 - 🗞️ [notcrawl](https://github.com/vincentkoc/notcrawl) - Sync Notion as with sqlite backend and *.md files and key-less wiretapping.
+- 🌾 [graincrawl](https://github.com/vincentkoc/graincrawl) - Local-first Granola notes archive with SQLite, Markdown export, snapshots, and TUI browsing.
+- 🧰 [crawlkit](https://github.com/vincentkoc/crawlkit) - Shared Go archive toolkit powering local-first crawl apps with config, SQLite, snapshots, and TUI surfaces.
 - 🧃 [tokenjuice](https://github.com/vincentkoc/tokenjuice) - Lean output compaction for terminal-heavy agent workflows.
 - 🛰️ [discrawl](https://github.com/steipete/discrawl) - Mirror Discord into SQLite and search server history locally.
 - 🌀 [NemoClaw](https://github.com/NVIDIA/NemoClaw) - NVIDIA plugin for secure installation of OpenClaw with OpenShell.
