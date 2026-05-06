@@ -21,6 +21,7 @@ Some of my projects I have published or repositories I have been a maintainer fo
 - 🧽 [kitchen-sink](https://github.com/openclaw/kitchen-sink) - Credential-free OpenClaw plugin fixture covering the public plugin API surface.
 - 💊 [plugin-inspector](https://github.com/openclaw/plugin-inspector) - Offline compatibility inspector for OpenClaw plugin packages and fixtures.
 - 🦀 [crabpot](https://github.com/openclaw/crabpot) - Compatibility testbed for OpenClaw community plugins.
+- 📦 [crabbox](https://github.com/openclaw/crabbox) - Warm a box, sync the diff, and run targeted OpenClaw suites remotely.
 - 🐠 [clownfish](https://github.com/openclaw/clownfish) - Conservative OpenClaw maintainer tool for targeted issue and PR cluster cleanup.
 - 🗞️ [notcrawl](https://github.com/vincentkoc/notcrawl) - Sync Notion as with sqlite backend and *.md files and key-less wiretapping.
 - 🧃 [tokenjuice](https://github.com/vincentkoc/tokenjuice) - Lean output compaction for terminal-heavy agent workflows.
