@@ -19,6 +19,7 @@ Some of my projects I have published or repositories I have been a maintainer fo
 
 - 🩹 [clawpatch](https://github.com/openclaw/clawpatch) - Maintainer tool to review code, patch bugs, and land PRs.
 - 🌾 [graincrawl](https://github.com/vincentkoc/graincrawl) - Local-first Granola notes archive with SQLite, Markdown export, snapshots, and TUI browsing.
+- 🧭 [crawlbar](https://github.com/openclaw/crawlbar) - Menu bar control plane for local-first crawl apps.
 - 🧰 [crawlkit](https://github.com/vincentkoc/crawlkit) - Shared Go archive toolkit powering local-first crawl apps with config, SQLite, snapshots, and TUI surfaces.
 - ⏱️ [openclaw-rtt](https://github.com/openclaw/openclaw-rtt) - RTT timing measurements across OpenClaw npm releases.
 - 📦 [crabbox](https://github.com/openclaw/crabbox) - Warm a box, sync the diff, and run targeted OpenClaw suites remotely.
