@@ -18,6 +18,7 @@ Some of my projects I have published or repositories I have been a maintainer fo
 <!-- Keep project entries sorted newest-to-oldest by GitHub repository created_at. Use short display names where requested, e.g. tinyqa and synthetic research. -->
 
 - 🩹 [clawpatch](https://github.com/openclaw/clawpatch) - Maintainer tool to review code, patch bugs, and land PRs.
+- 📊 [ReleaseBar](https://github.com/steipete/ReleaseBar) - Release freshness dashboard for open source maintainers.
 - 🌾 [graincrawl](https://github.com/vincentkoc/graincrawl) - Local-first Granola notes archive with SQLite, Markdown export, snapshots, and TUI browsing.
 - 🧭 [crawlbar](https://github.com/openclaw/crawlbar) - Menu bar control plane for local-first crawl apps.
 - 🧰 [crawlkit](https://github.com/vincentkoc/crawlkit) - Shared Go archive toolkit powering local-first crawl apps with config, SQLite, snapshots, and TUI surfaces.
