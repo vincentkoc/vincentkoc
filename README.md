@@ -15,45 +15,45 @@ I've contributed to leading repositories from [Airbyte](https://github.com/airby
 
 Some of my projects I have published or repositories I have been a maintainer for:
 
-- 🧪 [Tiny QA Benchmark++](https://github.com/vincentkoc/tiny_qa_benchmark_pp) - Ultra-lightweight LLM evaluation benchmark and synthetic generator for CI smoke tests.
-- 🐚 [natilius](https://github.com/vincentkoc/natilius) - One-click macOS developer environment bootstrap using Terraform and dotfiles.
+- 🩹 [clawpatch](https://github.com/openclaw/clawpatch) - Maintainer tool to review code, patch bugs, and land PRs.
 - 🌾 [graincrawl](https://github.com/vincentkoc/graincrawl) - Local-first Granola notes archive with SQLite, Markdown export, snapshots, and TUI browsing.
 - 🧰 [crawlkit](https://github.com/vincentkoc/crawlkit) - Shared Go archive toolkit powering local-first crawl apps with config, SQLite, snapshots, and TUI surfaces.
+- ⏱️ [openclaw-rtt](https://github.com/openclaw/openclaw-rtt) - RTT timing measurements across OpenClaw npm releases.
+- 📦 [crabbox](https://github.com/openclaw/crabbox) - Warm a box, sync the diff, and run targeted OpenClaw suites remotely.
 - 🧭 [gitcrawl](https://github.com/openclaw/gitcrawl) - Local-first GitHub issue and PR crawler for maintainer triage.
-- 🧩 [acpx](https://github.com/openclaw/acpx) - Headless CLI client for stateful Agent Client Protocol sessions.
 - 🧽 [kitchen-sink](https://github.com/openclaw/kitchen-sink) - Credential-free OpenClaw plugin fixture covering the public plugin API surface.
 - 💊 [plugin-inspector](https://github.com/openclaw/plugin-inspector) - Offline compatibility inspector for OpenClaw plugin packages and fixtures.
-- 🩹 [clawpatch](https://github.com/openclaw/clawpatch) - Maintainer tool to review code, patch bugs, and land PRs.
-- 🧹 [clawsweeper](https://github.com/openclaw/clawsweeper) - Weekly OpenClaw issue and PR scanner that suggests what can close, and why.
-- 🧪 [clawbench](https://github.com/openclaw/clawbench) - Agent benchmark that scores the harness, config, and model behavior with trace-based metrics.
 - 🦀 [crabpot](https://github.com/openclaw/crabpot) - Compatibility testbed for OpenClaw community plugins and plugin seams.
-- 📦 [crabbox](https://github.com/openclaw/crabbox) - Warm a box, sync the diff, and run targeted OpenClaw suites remotely.
 - 🐠 [clownfish](https://github.com/openclaw/clownfish) - OpenClaw maintainer harness for bulk issue and PR cluster cleanup.
-- ⏱️ [openclaw-rtt](https://github.com/openclaw/openclaw-rtt) - RTT timing measurements across OpenClaw npm releases.
+- 🧹 [clawsweeper](https://github.com/openclaw/clawsweeper) - Weekly OpenClaw issue and PR scanner that suggests what can close, and why.
 - 🗞️ [notcrawl](https://github.com/openclaw/notcrawl) - Local-first Notion crawler into SQLite and normalized Markdown.
 - 🧃 [tokenjuice](https://github.com/vincentkoc/tokenjuice) - Lean output compaction for terminal-heavy agent workflows.
-- 🛰️ [discrawl](https://github.com/steipete/discrawl) - Mirror Discord into SQLite and search server history locally.
+- 🧪 [clawbench](https://github.com/openclaw/clawbench) - Agent benchmark that scores the harness, config, and model behavior with trace-based metrics.
 - 🌀 [NemoClaw](https://github.com/NVIDIA/NemoClaw) - NVIDIA plugin for secure installation of OpenClaw with OpenShell.
 - 💾 [slacrawl](https://github.com/vincentkoc/slacrawl) - Command-line terminal app for Slack with SQLite backend and key-less wiretapping.
+- 🛰️ [discrawl](https://github.com/steipete/discrawl) - Mirror Discord into SQLite and search server history locally.
 - 🦞 [opik-openclaw](https://github.com/comet-ml/opik-openclaw) - Native Opik observability in OpenClaw to help with agent evaluation.
+- 🧩 [acpx](https://github.com/openclaw/acpx) - Headless CLI client for stateful Agent Client Protocol sessions.
 - 📁 [.skills](https://github.com/vincentkoc/dotskills) - Curated skills and skill registry, akin to dotfiles, for coding agents and OpenClaw.
-- 🦞 [openclaw](https://github.com/openclaw/openclaw/) - Personal AI assistant, contributing with CVEs and OTel to make lobsters safe.
+- 🦞 [awesome-openclaw](https://github.com/vincentkoc/awesome-openclaw) - Curated awesome list for OpenClaw (formerly Moltbot/Clawdbot).
 - 🐦 [finagotchi](https://github.com/vincentkoc/finagotchi) - Tamagotchi‑inspired AI agent that evolves with financial data, using SLMs and local graph.
 - 🧠 [openamnesia](https://github.com/vincentkoc/openamnesia) - Backfill `.md` memory files for agents locally from iMessage to Cursor logs with no APIs.
-- 🦞 [awesome-openclaw](https://github.com/vincentkoc/awesome-openclaw) - Curated awesome list for OpenClaw (formerly Moltbot/Clawdbot).
+- 🦞 [openclaw](https://github.com/openclaw/openclaw/) - Personal AI assistant, contributing with CVEs and OTel to make lobsters safe.
 - 🧬 [GEPA](https://github.com/gepa-ai/gepa) - AI-powered reflective text evolution for optimizing prompts, code, and agent behavior.
-- 🔭 [opik-optimizer](https://github.com/comet-ml/opik/tree/main/sdks/opik_optimizer) - Lead developer and project maintainer for agent optimization SDK.
+- 🧪 [tinyqa](https://github.com/vincentkoc/tiny_qa_benchmark_pp) - Ultra-lightweight LLM evaluation benchmark and synthetic generator for CI smoke tests.
 - 🔭 [opik-mcp](https://github.com/comet-ml/opik-mcp) - Developed an Anthropic-endorsed MCP server for Comet Opik.
-- 🔭 [opik](https://github.com/comet-ml/opik) - Debug, evaluate, and monitor your LLM applications. Leading open-source LLM evaluation toolkit.
 - 👻 [dexscraper](https://github.com/vincentkoc/dexscraper) - Real-time DexScreener scraper for multi-chain token discovery, filtering, and feed for bots.
 - 🧑‍🚀 [airgapped-offline-rag](https://github.com/vincentkoc/airgapped-offfline-rag) - 100% offline dockerized RAG with quantized model inference.
-- 🎙️ [omi](https://github.com/BasedHardware/omi) - omi.me (_YC, prev. Friend AI_) developing AI wearable firmware and live speech analysis.
 - ✨ [Synthetic user research](https://github.com/vincentkoc/synthetic-user-research) - Autonomous agents powering research studies and panels with persona prompting.
+- 🎙️ [omi](https://github.com/BasedHardware/omi) - omi.me (_YC, prev. Friend AI_) developing AI wearable firmware and live speech analysis.
+- 🔭 [opik-optimizer](https://github.com/comet-ml/opik/tree/main/sdks/opik_optimizer) - Lead developer and project maintainer for agent optimization SDK.
+- 🔭 [opik](https://github.com/comet-ml/opik) - Debug, evaluate, and monitor your LLM applications. Leading open-source LLM evaluation toolkit.
 - ⏰ [no-out-of-hours-merge](https://github.com/vincentkoc/no-out-of-hours-merge) - GitHub Action that blocks PR merges outside business hours, weekends and holidays.
+- 🐚 [natilius](https://github.com/vincentkoc/natilius) - One-click macOS developer environment bootstrap using Terraform and dotfiles.
+- 📁 [dotfiles](https://github.com/vincentkoc/dotfiles) - A very opinionated and well-maintained personal dotfiles repo.
 - 🗄️ [Airbyte](https://github.com/airbytehq/airbyte) - Core contributor to open-source data movement for ELT pipelines and AI agents.
 - 🔑 [autosecure](https://github.com/vincentkoc/autosecure) - Public threat-feed and blocklists to automatic IP blocking for Linux and macOS firewalls.
 - 📱 [android-market-api-php](https://github.com/vincentkoc/android-market-api-php) - PHP implementation of the Java Android Market API.
-- 📁 [dotfiles](https://github.com/vincentkoc/dotfiles) - A very opinionated and well-maintained personal dotfiles repo.
 
 I'm always open to building, contributing, collaborating, and chatting. Feel free to [📫 reach out](https://linktr.ee/vincentkoc).
 
