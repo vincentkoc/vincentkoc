@@ -44,7 +44,7 @@ Some of my projects I have published or repositories I have been a maintainer fo
 - 🔭 [opik-mcp](https://github.com/comet-ml/opik-mcp) - Developed an Anthropic-endorsed MCP server for Comet Opik.
 - 👻 [dexscraper](https://github.com/vincentkoc/dexscraper) - Real-time DexScreener scraper for multi-chain token discovery, filtering, and feed for bots.
 - 🧑‍🚀 [airgapped-offline-rag](https://github.com/vincentkoc/airgapped-offfline-rag) - 100% offline dockerized RAG with quantized model inference.
-- ✨ [Synthetic user research](https://github.com/vincentkoc/synthetic-user-research) - Autonomous agents powering research studies and panels with persona prompting.
+- ✨ [synthetic research](https://github.com/vincentkoc/synthetic-user-research) - Autonomous agents powering research studies and panels with persona prompting.
 - 🎙️ [omi](https://github.com/BasedHardware/omi) - omi.me (_YC, prev. Friend AI_) developing AI wearable firmware and live speech analysis.
 - 🔭 [opik-optimizer](https://github.com/comet-ml/opik/tree/main/sdks/opik_optimizer) - Lead developer and project maintainer for agent optimization SDK.
 - 🔭 [opik](https://github.com/comet-ml/opik) - Debug, evaluate, and monitor your LLM applications. Leading open-source LLM evaluation toolkit.
