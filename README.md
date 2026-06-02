@@ -63,6 +63,7 @@ I'm always open to building, contributing, collaborating, and chatting. Feel fre
 
 ### Recent Articles, Journal Papers and Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [ClawHub Security Signals: When VirusTotal, Static Analysis, and SkillSpector Disagree](http://arxiv.org/abs/2606.01494v1)
 - [Native Observability &amp; Alerts for Your OpenClaw with Opik](https://live-comet-marketing-site.pantheonsite.io/blog/openclaw-observability/)
 - [The Dawn of Self-Optimizing AI Agents](https://www.forbes.com/councils/forbestechcouncil/2026/01/22/the-dawn-of-self-optimizing-ai-agents/)
 - [From Observability to Optimization: Announcing the Opik Agent Optimizer Public Beta](https://live-comet-marketing-site.pantheonsite.io/blog/automated-prompt-engineering/)
@@ -72,7 +73,6 @@ I'm always open to building, contributing, collaborating, and chatting. Feel fre
 - [Generative AI and Large Language Models in Language Preservation: Opportunities and Challenges](http://arxiv.org/abs/2501.11496v2)
 - [The GenAI Compass: a UX framework to design generative AI experiences](https://uxdesign.cc/the-genai-compass-a-ux-framework-to-design-generative-ai-experiences-49a7d797c114?source=rss-79191c4a8149------2)
 - [Creating Synthetic User Research: Using Persona Prompting and Autonomous Agents](https://medium.com/data-science/creating-synthetic-user-research-using-persona-prompting-and-autonomous-agents-b521e0a80ab6?source=rss-79191c4a8149------2)
-- [Explaining OpenAI Sora’s Spacetime Patches: The Key Ingredient](https://medium.com/data-science/explaining-openai-soras-spacetime-patches-the-key-ingredient-e14e0703ec5b?source=rss-79191c4a8149------2)
 <!-- BLOG-POST-LIST:END -->
 
 <!--
