@@ -17,6 +17,9 @@ Some of my projects I have published or repositories I have been a maintainer fo
 
 <!-- Keep project entries sorted newest-to-oldest by GitHub repository created_at. Use short display names where requested, e.g. tinyqa and synthetic research. -->
 
+- 🧱 [libterminal](https://github.com/openclaw/libterminal) - Shared TypeScript terminal protocol, streaming, browser, Node, and Worker primitives.
+- 🌊 [tideglass](https://github.com/vincentkoc/tideglass) - Portable intent and preference profiles for local-first agents.
+- 🧭 [clawrouter](https://github.com/openclaw/clawrouter) - ClawRouter API gateway and provider router for OpenClaw services.
 - 🩹 [clawpatch](https://github.com/openclaw/clawpatch) - Maintainer tool to review code, patch bugs, and land PRs.
 - 📊 [ReleaseBar](https://github.com/steipete/ReleaseBar) - Release freshness dashboard for open source maintainers.
 - 🌾 [graincrawl](https://github.com/vincentkoc/graincrawl) - Local-first Granola notes archive with SQLite, Markdown export, snapshots, and TUI browsing.
