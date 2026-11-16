@@ -17,6 +17,7 @@ Some of my projects I have published or repositories I have been a maintainer fo
 
 <!-- Keep project entries sorted newest-to-oldest by GitHub repository created_at. Use short display names where requested, e.g. tinyqa and synthetic research. -->
 
+- 🗺️ [tinysz](https://github.com/vincentkoc/tinyshenzhen) - A tiny hand-painted-style explorable map of Shenzhen.
 - 🫧 [agentrinse](https://github.com/vincentkoc/agentrinse) - Safe, local-first cleanup planning for agentic development.
 - 🧱 [libterminal](https://github.com/openclaw/libterminal) - Shared TypeScript terminal protocol, streaming, browser, Node, and Worker primitives.
 - 🌊 [tideglass](https://github.com/vincentkoc/tideglass) - Portable intent and preference profiles for local-first agents.
